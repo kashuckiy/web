@@ -20,4 +20,3 @@ function task2() {
 	document.write(a + "*" + b + "*" + c + "=" + dob );
 	document.write("(" + a + "+" + b + "+" + c + ") / 3" + "=" + ser);
 }
-task2();
