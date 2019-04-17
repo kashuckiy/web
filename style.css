@@ -1,0 +1,20 @@
+*{
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.position{
+    display: flex;
+}
+
+.task{
+    width: 30%;
+    height: 2rem;
+    background-color: #fff2cc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #d3b24f;
+    cursor: pointer;
+}
+
