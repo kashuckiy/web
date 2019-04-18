@@ -30,4 +30,6 @@
     width: 75%;
     background-color: #fff2cc;
     border: 2px solid #d3b24f;
+    font-size: 55px;
+    word-wrap: break-word;
 }
